@@ -1,6 +1,10 @@
 .SiteTitle {
-    background-color: aquamarine;
     text-align: left;
-    padding: 100px;
+    font: Oswald;
+    font-size: 50px;
+    
+}
+.Background{
+    background-color: #f2f2f2
     
 }
