@@ -8,3 +8,22 @@
     background-color: #f2f2f2
     
 }
+
+li{
+    float:left;
+    padding-right:5px;
+}
+
+ul{
+    padding:0;
+    margin:0;
+    list-style-type: none;
+    overflow:hidden;
+    display:block;
+}
+
+li:hover{
+    float:left;
+    padding-right:5px;
+    color: aquamarine
+}
